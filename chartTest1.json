@@ -1,0 +1,52 @@
+[
+  {
+  	"Nombre": "Pedro Sola",
+  	"Hechas": 5,
+  	"Total": 50
+  },
+  {
+  	"Nombre": "Juan Perez",
+  	"Hechas": 20,
+  	"Total": 43
+  },
+  {
+  	"Nombre": "Jose Dominguez",
+  	"Hechas": 21,
+  	"Total": 60
+  },
+  {
+  	"Nombre": "Edgar Gaxiola",
+  	"Hechas": 15,
+  	"Total": 45
+  },
+  {
+  	"Nombre": "Humberto Moreira",
+  	"Hechas": 25,
+  	"Total": 47
+  },
+  {
+  	"Nombre": "Paco Stanley",
+  	"Hechas": 32,
+  	"Total": 80
+  },
+  {
+  	"Nombre": "Miguel Emilio Jimenez",
+  	"Hechas": 15,
+  	"Total": 45
+  },
+  {
+  	"Nombre": "Jose Pereira",
+  	"Hechas": 18,
+  	"Total": 50
+  },
+  {
+  	"Nombre": "Juan Martinez",
+  	"Hechas": 4,
+  	"Total": 12
+  },
+  {
+  	"Nombre": "Alfredo Rivera",
+  	"Hechas": 55,
+  	"Total": 60
+  }
+]
